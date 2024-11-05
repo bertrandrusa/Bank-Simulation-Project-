@@ -1,8 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/baFqDKja)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=13144178)
-# Exam 3 - Group Project
-
-For our final exam, we are working in groups to code and present a solution to the event-driven bank simulation first presented in [Chapter 13, Section 4: Application -- Simulation](https://online.vitalsource.com/reader/books/9780134477473/epubcfi/6/282%5B%3Bvnd.vst.idref%3DP7001011925000000000000000003C6A%5D!/4/2%5BP7001011925000000000000000003C6A%5D/2/2%5BP700101192500000000000000000BDCC%5D/3:22%5Bati%2Con%5D).
 
 ## Background
 
