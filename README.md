@@ -190,26 +190,5 @@ git push
 
 As usual, prior to submitting your assignment on Microsoft Teams, be sure that you have committed and pushed your final changes to GitHub. Once your final changes have been pushed, create a pull request that seeks to merge the changes in your `develop` branch into your `trunk` branch. Once your pull request has been created, submit the URL of your assignment _repository_ (i.e., _not_ the URL of the pull request) as a Link Resource on Microsoft Teams. Please note: the timestamp of the submission on Microsoft Teams is used to assess any late penalties if and when warranted, _not_ the date/time you create your pull request. **No exceptions will be granted for this oversight**.
 
-### Due Date
 
-Your assignment submission is due by 11:59 PM, Sunday, December 10, 2023. Please note: This is a cut-off date in GitHub Classroom, meaning, after this date/time your team will lose write access to your repository, i.e., no more pushes will be allowed by GitHub.
-
-### Grading Rubric
-
-The implementation component of this exam is worth **5 points**.
-
-| Criteria           | Exceeds Expectations         | Meets Expectations                  | Below Expectations                  | Failure                                        |
-|--------------------|------------------------------|-------------------------------------|-------------------------------------|------------------------------------------------|
-| Pull Request (20%) | Submitted early, correct url | Submitted on-time; correct url      | Incorrect URL                       | No pull request was created or submitted       |
-| Code Style (20%)   | Exemplary code style         | Consistent, modern coding style     | Inconsistent coding style           | No style whatsoever or no code changes present |
-| Correctness^ (60%) | All unit tests pass          | At least 80% of the unit tests pass | At least 60% of the unit tests pass | Less than 50% of the unit tests pass           |
-
-^ _The Google Test unit runner will calculate the correctness points based purely on the fraction of tests passed_.
-
-The presentation component of this exam is worth **5 points**. A separate grading rubric will be distributed during the final exam that will address the team collaboration/presentation aspect of this group assignment.
-
-### Late Penalty
-
-* In the first 24-hour period following the due date, this lab will be penalized 0.6 point meaning the grading starts at 2.4 (out of 3 total possible) points.
-* In the second 24-hour period following the due date, this lab will be penalized 1.2 points meaning the grading starts at 1.8 (out of 3 total possible) points.
 * After 48 hours, the assignment will not be graded and thus earns no points, i.e., 0 out of 3 possible points.
